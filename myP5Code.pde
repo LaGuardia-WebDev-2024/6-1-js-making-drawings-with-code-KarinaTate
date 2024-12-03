@@ -8,12 +8,18 @@ void setup() {
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
   fill(255,255,255,0);
-  strokeWeight(3);
+  strokeWeight(7);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
-  
-
+  ellipse(180,50,100,80);
+   ellipse(180,150,130,120)
+ ellipse(180,300,200,180)
+  ellipse(200,40,1,1)
+    ellipse(160,40,1,1)
+     ellipse(180,130,1,1)
+      ellipse(180,160,1,1)
+      ellipse(270,150,50,1)
+       ellipse(90,150,50,1)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
